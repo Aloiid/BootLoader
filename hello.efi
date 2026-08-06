@@ -1,0 +1,19 @@
+#include <Uefi.h> 
+
+#include <library/Uefilib.h> 
+
+#include <library/UefiBootServicesTableLib.h> 
+
+EFI_STATUS 
+
+EFIAPI 
+
+//on initialise le main uefi 
+
+UefiMain(IN EFI_HANDLE ImageHandle, IN EFI_SYSTEM_TABLE *SystemTable) { 
+
+print(L"Mon sac est fait !\r\n"); 
+
+return EFI_SUCESS;  
+
+} 
