@@ -14,6 +14,6 @@ UefiMain(IN EFI_HANDLE ImageHandle, IN EFI_SYSTEM_TABLE *SystemTable) {
 
 print(L"Mon sac est fait !\r\n"); 
 
-return EFI_SUCESS;  
+return EFI_SUCCESS;  
 
 } 
