@@ -7,7 +7,7 @@ Recherche sur l'exécution x86 au niveau firmware et le code pré-OS.
 - [02 - Mode protégé 32 bits / GDT](BIOS/02-...)
 
 ## UEFI
-- [01 - Hello World UEFI (EDK2)](UEFI/...)
+- [01 - Hello World UEFI ](UEFI/test-hello)
 
 ## Outils
 - NASM, QEMU, EDK2
