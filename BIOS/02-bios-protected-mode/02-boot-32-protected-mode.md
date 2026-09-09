@@ -14,7 +14,7 @@ https://wiki.osdev.org/Drawing_In_a_Linear_Framebuffer
 
 Mode reel (16 bits) et le mode protégé (32 bits)
 
-Le CPU de lancer le BIOS qui lui se trouve dans une puce sur la care mère. Le mode reel permet donc au bios d'executer n'importe quel code n'importe ou sans protection.
+Le CPU lance le BIOS qui lui se trouve dans une puce sur la care mère. Le mode reel permet donc au bios d'executer n'importe quel code sans protection.
 
 Ici on va voir comment on peut passer du mode reel au mode protégé.
 
